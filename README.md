@@ -37,7 +37,7 @@ The application allows users to view a list of blogs, read full blog details, an
 - **Right Panel**: Blog detail view with cover image and full content  
 
 > Note: The UI is inspired by the provided reference design.  
-> Pixel-perfect replication was not required as per the assignment instructions.
+>
 
 ---
 
@@ -122,5 +122,5 @@ JSON Server is used as required instead of a custom backend
 
 ## Author
 
-Apoorva Shankar
+## Apoorva Shankar
 GitHub: https://github.com/apoorvashankar611
