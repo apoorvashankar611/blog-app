@@ -120,7 +120,8 @@ JSON Server is used as required instead of a custom backend
 
 ✅ Clean code organization
 
-## Author
+### Author
 
-## Apoorva Shankar
+## Vishlavath Apoorva
+Gmail: apoorvashankar611@gmail.com
 GitHub: https://github.com/apoorvashankar611
