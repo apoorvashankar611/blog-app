@@ -1,0 +1,48 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The Future of Fintech in 2024",
+      "excerpt": "Exploring how AI and blockchain are reshaping financial services and the role of Chartered Accountants.",
+      "content": "The intersection of finance and technology has never been more vibrant.\n\nAs we look towards 2024, the role of the Chartered Accountant is evolving from mere bookkeeping to strategic financial analysis powered by AI.\n\nThe Rise of Automated Accounting\n\nAutomation is no longer a buzzword; it's a reality. Routine tasks like data entry, reconciliation, and payroll processing are being automated at an unprecedented pace. This shift allows finance professionals to focus on high-value activities such as:\n\n• Strategic financial planning and analysis (FP&A)\n• Risk management and compliance auditing\n• Advisory services for business growth and sustainability\n\nBlockchain: Beyond Cryptocurrency\n\nWhile Bitcoin grabs the headlines, the underlying blockchain technology is quietly revolutionizing auditing. The immutable ledger provides a single source of truth that could eliminate the need for sampling in audits, allowing for 100% verification of transactions.\n\n\"The accountant of the future will be a data scientist, a storyteller, and a strategic partner — all rolled into one.\"\n\nPreparing for the Shift\n\nTo stay relevant, CAs must upskill. Understanding Python for data analysis, mastering visualization tools like Power BI, and getting comfortable with AI-driven ERP systems are now essential skills. The traditional syllabus provides the foundation, but continuous learning builds the career.",
+      "category": ["FINANCE", "AI"],
+      "date": "2023-10-24",
+      "coverImage": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+      "author": "Arjun Mehta",
+      "readTime": "5 mins"
+    },
+    {
+      "id": 2,
+      "title": "React Best Practices",
+      "excerpt": "Clean and scalable React architecture for modern frontend applications.",
+      "content": "React has become the de-facto library for building modern user interfaces.\n\nHowever, writing React code is easy — writing maintainable and scalable React code is the real challenge.\n\nComponent Design\n\nBreak your UI into small, reusable components. Each component should have a single responsibility. This makes debugging easier and improves reusability.\n\nState Management\n\nAvoid excessive prop drilling. Use tools like Context API or TanStack Query to manage shared and server state efficiently.\n\nFolder Structure\n\nOrganize your project by feature, not by file type. Group components, hooks, services, and styles related to a feature together.\n\nPerformance Optimization\n\nUse memoization wisely with React.memo and useCallback. Avoid unnecessary re-renders by keeping state as local as possible.\n\nFollowing these best practices ensures your React applications remain easy to scale, test, and maintain as the codebase grows.",
+      "category": ["TECH"],
+      "date": "2026-01-15",
+      "coverImage": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+      "author": "CA Monk Editorial",
+      "readTime": "4 mins"
+    },
+    {
+      "id": 3,
+      "title": "AI in Accounting",
+      "excerpt": "How artificial intelligence is transforming accounting workflows.",
+      "content": "Artificial Intelligence is rapidly transforming accounting. From automated bookkeeping to intelligent auditing tools, AI is reducing manual effort and improving accuracy.\n\nKey benefits include:\n• Automated invoice processing\n• Fraud detection\n• Predictive financial insights\n\nAccountants who adapt early will gain a competitive advantage.",
+      "category": ["FINANCE", "AI"],
+      "date": "2026-01-10",
+      "coverImage": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+      "author": "Arjun Mehta",
+      "readTime": "6 min read"
+    },
+    {
+      "id": 4,
+      "title": "Career Roadmap for CA Students",
+      "excerpt": "A complete roadmap for CA students to plan their career strategically.",
+      "content": "Becoming a Chartered Accountant requires more than clearing exams. Strategic planning, skill development, and continuous learning are key.\n\nThis guide covers:\n• Exam preparation strategy\n• Articleship best practices\n• Skill-building beyond syllabus\n• Career options after CA\n\nSuccess comes from consistency and smart effort.",
+      "category": ["CAREER"],
+      "date": "2026-01-12",
+      "coverImage": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+      "author": "CA Monk Team",
+      "readTime": "7 min read"
+    }
+  ]
+}
